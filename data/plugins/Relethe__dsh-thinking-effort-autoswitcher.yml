@@ -1,0 +1,6 @@
+url: https://github.com/Relethe/dsh-thinking-effort-autoswitcher
+name: Relethe/dsh-thinking-effort-autoswitcher
+category: model
+description:
+  en: 'Replaces the composer model picker: arrow keys left/right cycle the thinking-effort level and arrow keys up/down switch model; an Auto mode scores each turn and sets the level for it, and every finished turn is labelled with the effort it actually sent.'
+  zh: '替换输入框的模型选择器：← → 切换思考档位，↑ ↓ 切换模型；Auto 模式按每轮情况打分并据此决定档位，每轮结束后标出该轮实际发送的档位。'
